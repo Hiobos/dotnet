@@ -1,0 +1,15 @@
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\bin\Debug\net8.0\zadanie6.exe
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\bin\Debug\net8.0\zadanie6.deps.json
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\bin\Debug\net8.0\zadanie6.runtimeconfig.json
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\bin\Debug\net8.0\zadanie6.dll
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\bin\Debug\net8.0\zadanie6.pdb
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\zadanie6.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\zadanie6.AssemblyInfoInputs.cache
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\zadanie6.AssemblyInfo.cs
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\zadanie6.csproj.CoreCompileInputs.cache
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\zadanie6.sourcelink.json
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\zadanie6.dll
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\refint\zadanie6.dll
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\zadanie6.pdb
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\zadanie6.genruntimeconfig.cache
+D:\studia\programowanie .net\dotnet\1\zadanie6\zadanie6\obj\Debug\net8.0\ref\zadanie6.dll

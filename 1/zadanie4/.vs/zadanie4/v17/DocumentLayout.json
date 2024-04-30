@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A07638-7DFC-4F3F-98AB-9F0C6B8FC23B}|zadanie4\\zadanie4.csproj|d:\\studia\\programowanie .net\\dotnet\\1\\zadanie4\\zadanie4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1A07638-7DFC-4F3F-98AB-9F0C6B8FC23B}|zadanie4\\zadanie4.csproj|solutionrelative:zadanie4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A07638-7DFC-4F3F-98AB-9F0C6B8FC23B}|zadanie4\\zadanie4.csproj|d:\\studia\\programowanie .net\\dotnet\\1\\zadanie4\\zadanie4\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D1A07638-7DFC-4F3F-98AB-9F0C6B8FC23B}|zadanie4\\zadanie4.csproj|solutionrelative:zadanie4\\text.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "text.txt",
+              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie4\\zadanie4\\text.txt",
+              "RelativeDocumentMoniker": "zadanie4\\text.txt",
+              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie4\\zadanie4\\text.txt",
+              "RelativeToolTip": "zadanie4\\text.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-30T20:05:00.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie4\\zadanie4\\Program.cs",
+              "RelativeDocumentMoniker": "zadanie4\\Program.cs",
+              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie4\\zadanie4\\Program.cs",
+              "RelativeToolTip": "zadanie4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T20:03:55.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

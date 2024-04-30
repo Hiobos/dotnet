@@ -1,0 +1,15 @@
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\bin\Debug\net8.0\zadanie4.exe
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\bin\Debug\net8.0\zadanie4.deps.json
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\bin\Debug\net8.0\zadanie4.runtimeconfig.json
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\bin\Debug\net8.0\zadanie4.dll
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\bin\Debug\net8.0\zadanie4.pdb
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\zadanie4.AssemblyInfoInputs.cache
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\zadanie4.AssemblyInfo.cs
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\zadanie4.csproj.CoreCompileInputs.cache
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\zadanie4.sourcelink.json
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\zadanie4.dll
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\refint\zadanie4.dll
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\zadanie4.pdb
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\zadanie4.genruntimeconfig.cache
+D:\studia\programowanie .net\dotnet\1\zadanie4\zadanie4\obj\Debug\net8.0\ref\zadanie4.dll
