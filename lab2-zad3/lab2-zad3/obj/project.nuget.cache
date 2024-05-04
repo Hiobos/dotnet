@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMOewQ9C4cyX/VwaHPir3ZUc6Kutg7H9PfeMXt/yo9wD+KxjblAjEsW3DdGhaxm+ct1eh3hg2J6pxUTfjjvb3g==",
+  "success": true,
+  "projectFilePath": "D:\\studia\\programowanie .net\\dotnet\\lab2-zad3\\lab2-zad3\\lab2-zad3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikie\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\mikie\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\mikie\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\mikie\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
