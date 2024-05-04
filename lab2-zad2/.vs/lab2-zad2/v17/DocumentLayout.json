@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\studia\\programowanie .net\\dotnet\\lab2-zad2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18502651-CD38-44FD-B59E-9C40EA53282F}|lab2-zad2\\lab2-zad2.csproj|d:\\studia\\programowanie .net\\dotnet\\lab2-zad2\\lab2-zad2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18502651-CD38-44FD-B59E-9C40EA53282F}|lab2-zad2\\lab2-zad2.csproj|solutionrelative:lab2-zad2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18502651-CD38-44FD-B59E-9C40EA53282F}|lab2-zad2\\lab2-zad2.csproj|d:\\studia\\programowanie .net\\dotnet\\lab2-zad2\\lab2-zad2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18502651-CD38-44FD-B59E-9C40EA53282F}|lab2-zad2\\lab2-zad2.csproj|solutionrelative:lab2-zad2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\lab2-zad2\\lab2-zad2\\Form1.cs",
+              "RelativeDocumentMoniker": "lab2-zad2\\Form1.cs",
+              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\lab2-zad2\\lab2-zad2\\Form1.cs",
+              "RelativeToolTip": "lab2-zad2\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:45:38.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\lab2-zad2\\lab2-zad2\\Form1.cs",
+              "RelativeDocumentMoniker": "lab2-zad2\\Form1.cs",
+              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\lab2-zad2\\lab2-zad2\\Form1.cs [Design]",
+              "RelativeToolTip": "lab2-zad2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:42:26.243Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

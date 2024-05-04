@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\",
+  "WorkspaceRootPath": "D:\\studia\\programowanie .net\\dotnet\\zadanie1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|d:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|solutionrelative:zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|d:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|solutionrelative:zadanie1\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|d:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\garaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|d:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\garaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|solutionrelative:zadanie1\\garaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|d:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|solutionrelative:zadanie1\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|d:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EB5B01-666F-4773-B8D1-7DFC9DADFADD}|zadanie1\\zadanie1.csproj|solutionrelative:zadanie1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "program.cs",
-              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\program.cs",
+              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\program.cs",
               "RelativeDocumentMoniker": "zadanie1\\program.cs",
-              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\program.cs",
+              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\program.cs",
               "RelativeToolTip": "zadanie1\\program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAA6wBoAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-30T19:35:25.148Z",
               "EditorCaption": ""
@@ -41,25 +41,27 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "garaz.cs",
-              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\garaz.cs",
+              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\garaz.cs",
               "RelativeDocumentMoniker": "zadanie1\\garaz.cs",
-              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\garaz.cs",
+              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\garaz.cs",
               "RelativeToolTip": "zadanie1\\garaz.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwFIAAAAAAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T19:35:19.176Z"
+              "WhenOpened": "2024-04-30T19:35:19.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "samochod.cs",
-              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\samochod.cs",
+              "DocumentMoniker": "D:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\samochod.cs",
               "RelativeDocumentMoniker": "zadanie1\\samochod.cs",
-              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\1\\zadanie1\\zadanie1\\samochod.cs",
+              "ToolTip": "D:\\studia\\programowanie .net\\dotnet\\zadanie1\\zadanie1\\samochod.cs",
               "RelativeToolTip": "zadanie1\\samochod.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAADwv1YAAAABAAAA",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswFYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-30T19:33:39.282Z"
+              "WhenOpened": "2024-04-30T19:33:39.282Z",
+              "EditorCaption": ""
             }
           ]
         }
