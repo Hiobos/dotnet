@@ -1,0 +1,15 @@
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\bin\Debug\net8.0\Lab3_zad3.exe
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\bin\Debug\net8.0\Lab3_zad3.deps.json
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\bin\Debug\net8.0\Lab3_zad3.runtimeconfig.json
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\bin\Debug\net8.0\Lab3_zad3.dll
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\bin\Debug\net8.0\Lab3_zad3.pdb
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\Lab3_zad3.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\Lab3_zad3.AssemblyInfoInputs.cache
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\Lab3_zad3.AssemblyInfo.cs
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\Lab3_zad3.csproj.CoreCompileInputs.cache
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\Lab3_zad3.sourcelink.json
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\Lab3_zad3.dll
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\refint\Lab3_zad3.dll
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\Lab3_zad3.pdb
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\Lab3_zad3.genruntimeconfig.cache
+D:\studia\programowanie .net\dotnet\Lab3_zad3\Lab3_zad3\obj\Debug\net8.0\ref\Lab3_zad3.dll

@@ -1,0 +1,15 @@
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\bin\Debug\net8.0\Lab3_zad2.exe
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\bin\Debug\net8.0\Lab3_zad2.deps.json
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\bin\Debug\net8.0\Lab3_zad2.runtimeconfig.json
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\bin\Debug\net8.0\Lab3_zad2.dll
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\bin\Debug\net8.0\Lab3_zad2.pdb
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\Lab3_zad2.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\Lab3_zad2.AssemblyInfoInputs.cache
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\Lab3_zad2.AssemblyInfo.cs
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\Lab3_zad2.csproj.CoreCompileInputs.cache
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\Lab3_zad2.sourcelink.json
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\Lab3_zad2.dll
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\refint\Lab3_zad2.dll
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\Lab3_zad2.pdb
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\Lab3_zad2.genruntimeconfig.cache
+D:\studia\programowanie .net\dotnet\Lab3_zad2\Lab3_zad2\obj\Debug\net8.0\ref\Lab3_zad2.dll
