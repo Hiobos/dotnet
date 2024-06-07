@@ -1,0 +1,15 @@
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\net8.0\ProjektZaliczeniowy.exe
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\net8.0\ProjektZaliczeniowy.deps.json
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\net8.0\ProjektZaliczeniowy.runtimeconfig.json
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\net8.0\ProjektZaliczeniowy.dll
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\bin\Debug\net8.0\ProjektZaliczeniowy.pdb
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ProjektZaliczeniowy.GeneratedMSBuildEditorConfig.editorconfig
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ProjektZaliczeniowy.AssemblyInfoInputs.cache
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ProjektZaliczeniowy.AssemblyInfo.cs
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ProjektZaliczeniowy.csproj.CoreCompileInputs.cache
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ProjektZaliczeniowy.sourcelink.json
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ProjektZaliczeniowy.dll
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\refint\ProjektZaliczeniowy.dll
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ProjektZaliczeniowy.pdb
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ProjektZaliczeniowy.genruntimeconfig.cache
+D:\studia\programowanie .net\dotnet\ProjektZaliczeniowy\ProjektZaliczeniowy\obj\Debug\net8.0\ref\ProjektZaliczeniowy.dll
